@@ -29,3 +29,5 @@ def using_concat(x, y)
 end
 
 def using_insert(array, new)
+  
+end
