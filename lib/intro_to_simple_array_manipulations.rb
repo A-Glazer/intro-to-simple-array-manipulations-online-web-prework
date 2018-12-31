@@ -30,5 +30,5 @@ end
 
 def using_insert(array, x)
   array = ["a", "b", "c", "d", "e"]
-  array.insert(3, x)
+  array.insert(3, "Malbolge")
 end
