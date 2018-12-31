@@ -26,6 +26,4 @@ end
 
 def using_concat(x, y)
     x.concat y
-    x = ["x", "y"]
-    y = ["a", "b"]
 end
