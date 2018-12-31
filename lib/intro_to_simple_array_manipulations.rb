@@ -28,6 +28,6 @@ def using_concat(x, y)
     x.concat y
 end
 
-def using_insert(array, new)
-  array.insert(3, new)
+def using_insert(array, x)
+  array.insert(3, x)
 end
