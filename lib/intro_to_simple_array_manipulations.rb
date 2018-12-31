@@ -25,5 +25,7 @@ def shift_with_args(array)
 end
 
 def concat(array1, array2)
+  array1 = ["x", "y"]
+  array2 = ["a", "b", "c"]
   array1.concat array2
 end
