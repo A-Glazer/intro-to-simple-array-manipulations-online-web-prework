@@ -5,5 +5,5 @@ end
 
 def using_unshift(array, x)
   array = []
-  array
+  array.unshift(x)
 end
